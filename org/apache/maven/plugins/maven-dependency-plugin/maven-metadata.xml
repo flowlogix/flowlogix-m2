@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-dependency-plugin</artifactId>
+  <versioning>
+    <latest>2.8-CP</latest>
+    <release>2.8-CP</release>
+    <versions>
+      <version>2.8-CP</version>
+    </versions>
+    <lastUpdated>20140906201105</lastUpdated>
+  </versioning>
+</metadata>
